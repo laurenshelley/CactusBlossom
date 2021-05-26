@@ -1,11 +1,8 @@
-main {
-    padding-left: 2em;
-    padding-right: 2em;
-}
 body {
     background-color: whitesmoke;
     text-align: center;
-
+    margin-left: 10%;
+    margin-right: 10%;
 }
 li {
     list-style: none;
@@ -13,4 +10,5 @@ li {
 h1 {
     background-color: white;
     padding: 1.5em;
+    
 }
