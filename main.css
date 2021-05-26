@@ -2,3 +2,9 @@ body {
     background-color: whitesmoke;
     text-align: center;
 }
+li {
+    list-style: none;
+}
+h1 {
+    border: black;
+}
