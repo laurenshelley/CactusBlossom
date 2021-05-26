@@ -1,3 +1,6 @@
+main {
+    margin: auto;
+}
 body {
     background-color: whitesmoke;
     text-align: center;
@@ -6,5 +9,6 @@ li {
     list-style: none;
 }
 h1 {
-    background-color: black;
+    background-color: white;
+    padding: 2em;
 }
