@@ -3,19 +3,20 @@
   }
   ​
   .vertical {
-    border-left: solid black 1px;
-    border-right: solid black 1px;
+    border-left: solid red 100px;
+    border-right: solid red 100px;
+
   }
-  .center {
-    border-left: solid black 1px;
-    border-right: solid black 1px;
-    border-top: solid black 1px;
-    border-bottom: solid black 1px;
+  .middle {
+    border-left: solid black 100px;
+    border-right: solid red 100px;
+    border-bottom: solid red 100px;
+    border-top: solid red 100px;
   }
   ​
   .horizontal {
-    border-top: solid black 1px;
-    border-bottom: solid black 1px;
+    border-top: solid black 100px;
+    border-bottom: solid black 100px;
   }
   ​
   td {
@@ -24,3 +25,6 @@
     font-size: 60px;
     text-align: center;
     }
+.topleft {
+    color: red;
+}
