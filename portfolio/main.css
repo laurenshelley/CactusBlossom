@@ -6,9 +6,18 @@ body {
 }
 li {
     list-style: none;
+    background-color: white;
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+    padding: 1em;
 }
 h1 {
     background-color: white;
     padding: 1.5em;
     
 }
+h2 {
+    margin: auto;
+}
+
