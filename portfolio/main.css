@@ -6,16 +6,18 @@ body {
     /* max-width: 800px; */
     background-color: whitesmoke;
 }
-main {
+/* main {
     background-color: white;
-}
+} */
 li {
     list-style: none;
     background-color: white;
     max-width: 500px;
     text-align: center;
-    margin: auto;
+    /* margin: auto; */
     padding: 1em;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 h1 {
     background-color: white;
